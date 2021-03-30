@@ -1,4 +1,4 @@
-FROM munken/root:trusty-root6
+FROM ausadocker/root:trusty-root6
 
 
 RUN apt-get update -yq \
